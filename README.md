@@ -1,7 +1,7 @@
 📊 Proyecto de Análisis de Optimización: AluraStore Latam
 
-📝 Descripción del Proyecto
 Este proyecto surge de la necesidad estratégica de optimizar la red de tiendas de AluraStore. El objetivo principal es identificar, mediante el análisis de datos con Python, cuál de las cuatro tiendas presenta el rendimiento más bajo en términos financieros y operativos. Este análisis servirá como base para que el Sr. Juan decida qué unidad vender para financiar una nueva inversión.
+
 🛠️ Tecnologías y Dependencias
 Para este análisis se utilizó el lenguaje Python 3 y las siguientes librerías de ciencia de datos:
 •	Pandas: Para la manipulación, limpieza y análisis de los DataFrames.
